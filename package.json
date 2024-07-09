@@ -1,0 +1,21 @@
+{
+  "name": "shell-node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "sp": "./index.js"
+  },
+  "license": "MIT",
+  "scripts": {
+    "push": "node node_scripts/push.js",
+    "_install": "node node_scripts/install.js",
+    "_i": "node node_scripts/install.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "lodash": "^4.17.20",
+    "moment": "^2.24.0",
+    "shelljs": "^0.8.3",
+    "yargs": "^13.2.2"
+  }
+}

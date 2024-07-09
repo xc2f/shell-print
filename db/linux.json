@@ -1,0 +1,4 @@
+{
+  "改变文件拥有者[和用户组]": "chown [-R] 账号名称[:用户组名称] 文件或[目录]",
+  "任务在离开会话后继续运行": "https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/index.html"
+}

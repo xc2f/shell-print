@@ -1,0 +1,6 @@
+{
+  "Delete remote branch": "git push origin -d `branchName`",
+  "Update tags": "git fetch origin --prune --tags",
+  "取消文件追踪": "git rm -r --cached [filename]",
+  "clone submodule": "git clone --recurse-submodules -j8 [repo]"
+}
